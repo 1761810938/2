@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.1/robots.txt"
   },
   {
-    "revision": "8614b78c159549c7dac6",
-    "url": "/HYCOM/r2.1/js/register.54842b11.js"
+    "revision": "cc290b667bd1e57032c1",
+    "url": "/HYCOM/r2.1/js/register.71604521.js"
   },
   {
     "revision": "93208e09da08f4261af4",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.1/js/chunk-vendors.2ee40d8d.js"
   },
   {
-    "revision": "1542bad4987264f47186",
-    "url": "/HYCOM/r2.1/js/app.4d485651.js"
+    "revision": "769ff04efe1f347364f9",
+    "url": "/HYCOM/r2.1/js/app.94435bad.js"
   },
   {
     "revision": "7c2d2c9c08292f2f8375",
@@ -236,7 +236,7 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.1/extlib/jquery.ripples-min.js"
   },
   {
-    "revision": "509a73c675dc136a42eb22cf82ec11c8",
+    "revision": "9ffd3842708a7b6134584de1c2b0cebb",
     "url": "/HYCOM/r2.1/index.html"
   },
   {
@@ -276,8 +276,8 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.1/css/7.3.fd242f9c.css"
   },
   {
-    "revision": "8614b78c159549c7dac6",
-    "url": "/HYCOM/r2.1/css/register.e6c7b76c.css"
+    "revision": "cc290b667bd1e57032c1",
+    "url": "/HYCOM/r2.1/css/register.0fb7ef05.css"
   },
   {
     "revision": "7f830b46c9e2a927539d",
@@ -296,8 +296,8 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.1/css/chunk-vendors.8d0c9a44.css"
   },
   {
-    "revision": "1542bad4987264f47186",
-    "url": "/HYCOM/r2.1/css/app.02bf0393.css"
+    "revision": "769ff04efe1f347364f9",
+    "url": "/HYCOM/r2.1/css/app.8355ebba.css"
   },
   {
     "revision": "56849d3068b662848c1e",
