@@ -300,12 +300,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/admin_panel.e1af0912.js"
   },
   {
-    "revision": "8d5c717c1e0b8a17d3e4",
+    "revision": "e767dfc6bf8c78460e9e",
     "url": "/HYCOM/r2.2/css/app.4a9573b2.css"
   },
   {
-    "revision": "8d5c717c1e0b8a17d3e4",
-    "url": "/HYCOM/r2.2/js/app.6b427416.js"
+    "revision": "e767dfc6bf8c78460e9e",
+    "url": "/HYCOM/r2.2/js/app.76be5b21.js"
   },
   {
     "revision": "45a0da3f04160ddc9d61",
@@ -332,12 +332,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/dashboard.ed0986d0.js"
   },
   {
-    "revision": "d0c3ea63bd5669315213",
-    "url": "/HYCOM/r2.2/css/login.968924f3.css"
+    "revision": "2af170379c716a2c319d",
+    "url": "/HYCOM/r2.2/css/login.33e08345.css"
   },
   {
-    "revision": "d0c3ea63bd5669315213",
-    "url": "/HYCOM/r2.2/js/login.1259cb26.js"
+    "revision": "2af170379c716a2c319d",
+    "url": "/HYCOM/r2.2/js/login.173d07ba.js"
   },
   {
     "revision": "7ab7241d0b0171b6cbed",
@@ -372,7 +372,7 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/img/HYCOM_2.0.8ba39dd1.png"
   },
   {
-    "revision": "41c7e449b2d91ec12f44ae8d82d29abd",
+    "revision": "36c5ca515bc0969d80b56210c8c721d6",
     "url": "/HYCOM/r2.2/index.html"
   },
   {
