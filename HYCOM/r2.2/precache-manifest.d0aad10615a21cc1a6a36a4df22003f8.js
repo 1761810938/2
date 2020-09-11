@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/1.1.1.faca4939.js"
   },
   {
-    "revision": "30b02d5b386c472d0a73",
+    "revision": "bba0ac0923a5b31e010f",
     "url": "/HYCOM/r2.2/css/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.b663cea6.css"
   },
   {
-    "revision": "30b02d5b386c472d0a73",
-    "url": "/HYCOM/r2.2/js/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.6a968f24.js"
+    "revision": "bba0ac0923a5b31e010f",
+    "url": "/HYCOM/r2.2/js/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.7e8deb32.js"
   },
   {
     "revision": "04ba1b4ee571e7dbd9af",
@@ -300,12 +300,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/admin_panel.e1af0912.js"
   },
   {
-    "revision": "e767dfc6bf8c78460e9e",
+    "revision": "ac05e96f44726689d893",
     "url": "/HYCOM/r2.2/css/app.4a9573b2.css"
   },
   {
-    "revision": "e767dfc6bf8c78460e9e",
-    "url": "/HYCOM/r2.2/js/app.76be5b21.js"
+    "revision": "ac05e96f44726689d893",
+    "url": "/HYCOM/r2.2/js/app.b0961b90.js"
   },
   {
     "revision": "45a0da3f04160ddc9d61",
@@ -372,16 +372,16 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/img/HYCOM_2.0.8ba39dd1.png"
   },
   {
-    "revision": "36c5ca515bc0969d80b56210c8c721d6",
+    "revision": "790048053bf637da2ea0e5e5eb4523f2",
     "url": "/HYCOM/r2.2/index.html"
-  },
-  {
-    "revision": "b8f54e81b49d882b00e0e4c58e8d6e69",
-    "url": "/HYCOM/r2.2/extlib/jquery.ripples-min.js"
   },
   {
     "revision": "475f3bdf8d1211c09e8b8f1d83539d27",
     "url": "/HYCOM/r2.2/extlib/jquery-3.4.0.min.js"
+  },
+  {
+    "revision": "b8f54e81b49d882b00e0e4c58e8d6e69",
+    "url": "/HYCOM/r2.2/extlib/jquery.ripples-min.js"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
