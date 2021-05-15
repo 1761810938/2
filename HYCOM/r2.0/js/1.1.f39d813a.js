@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["1.1"],{"37e7":function(t,e,a){"use strict";a.r(e);var n=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticStyle:{padding:"50px"}},[a("div",{staticClass:"clearfix",attrs:{slot:"header"},slot:"header"},[a("h1",[t._v("1.1泄流能力计算")])]),a("transition",{attrs:{name:"fade-transform",mode:"out-in"}},[a("router-view")],1)],1)},r=[],s={},i=s,l=a("0c7c"),o=Object(l["a"])(i,n,r,!1,null,null,null);e["default"]=o.exports}}]);
-//# sourceMappingURL=1.1.f39d813a.js.map
