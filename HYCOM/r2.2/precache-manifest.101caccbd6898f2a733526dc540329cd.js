@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/1.1.1.faca4939.js"
   },
   {
-    "revision": "bba0ac0923a5b31e010f",
+    "revision": "d827fae625d57a0d7217",
     "url": "/HYCOM/r2.2/css/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.b663cea6.css"
   },
   {
-    "revision": "bba0ac0923a5b31e010f",
-    "url": "/HYCOM/r2.2/js/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.7e8deb32.js"
+    "revision": "d827fae625d57a0d7217",
+    "url": "/HYCOM/r2.2/js/1.1.1~1.1.2~1.1.3~1.1.4.1~1.1.4.2~1.2~1.3~1.4.1~1.4.2~1.5.1~1.5.2~1.6.1~1.6.2~2.3.e15dad6d.js"
   },
   {
     "revision": "04ba1b4ee571e7dbd9af",
@@ -300,12 +300,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/admin_panel.e1af0912.js"
   },
   {
-    "revision": "ac05e96f44726689d893",
+    "revision": "77ca9dd6b8c1c46c2a25",
     "url": "/HYCOM/r2.2/css/app.4a9573b2.css"
   },
   {
-    "revision": "ac05e96f44726689d893",
-    "url": "/HYCOM/r2.2/js/app.b0961b90.js"
+    "revision": "77ca9dd6b8c1c46c2a25",
+    "url": "/HYCOM/r2.2/js/app.cc288981.js"
   },
   {
     "revision": "45a0da3f04160ddc9d61",
@@ -332,12 +332,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/js/dashboard.ed0986d0.js"
   },
   {
-    "revision": "2af170379c716a2c319d",
-    "url": "/HYCOM/r2.2/css/login.33e08345.css"
+    "revision": "9d75787fbf2838abeebe",
+    "url": "/HYCOM/r2.2/css/login.2e80b192.css"
   },
   {
-    "revision": "2af170379c716a2c319d",
-    "url": "/HYCOM/r2.2/js/login.173d07ba.js"
+    "revision": "9d75787fbf2838abeebe",
+    "url": "/HYCOM/r2.2/js/login.2af2bd2b.js"
   },
   {
     "revision": "7ab7241d0b0171b6cbed",
@@ -372,8 +372,12 @@ self.__precacheManifest = [
     "url": "/HYCOM/r2.2/img/HYCOM_2.0.8ba39dd1.png"
   },
   {
-    "revision": "790048053bf637da2ea0e5e5eb4523f2",
+    "revision": "07b485057a0065d590121ae5f3795194",
     "url": "/HYCOM/r2.2/index.html"
+  },
+  {
+    "revision": "da6c74e56192caba67c606119dd984cf",
+    "url": "/HYCOM/r2.2/extlib/mathjax.min.js"
   },
   {
     "revision": "475f3bdf8d1211c09e8b8f1d83539d27",
