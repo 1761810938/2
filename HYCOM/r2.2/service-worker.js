@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HYCOM/r2.2/precache-manifest.f8456670ad55562e964f9ae082f6a036.js"
+  "/HYCOM/r2.2/precache-manifest.7c3f6996be0935550123da18ccc2023d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hycom"});

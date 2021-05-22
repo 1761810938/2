@@ -1,10 +1,10 @@
 {
-  "name": "hycal_app",
-  "short_name": "hycal_app",
+  "name": "hycom2.0",
+  "short_name": "hycom2.0",
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "./img/icons/logo.png",
+      "sizes": "1200x1200",
       "type": "image/png"
     }
   ],
