@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HYCOM/r2.2/precache-manifest.5241fd7ff1f00449a99d6763b3b5b568.js"
+  "/HYCOM/r2.2/precache-manifest.1246584488e99aebae2abac68ec6e79f.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "hycom"});
+workbox.core.setCacheNameDetails({prefix: "hycom2.0"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
