@@ -2,7 +2,6 @@
   "theme_color": "#4DBA87",
   "background_color": "#000000",
   "display": "fullscreen",
-  "scope": "",
   "start_url": "./index.html",
   "name": "HYCOM3.0",
   "short_name": "HYCOM3.0",
