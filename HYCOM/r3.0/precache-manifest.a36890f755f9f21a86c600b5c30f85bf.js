@@ -208,8 +208,8 @@ self.__precacheManifest = [
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/5.2.fc6ad979.js"
   },
   {
-    "revision": "fba33937200b65517cd3",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/5.3.a2ff413e.js"
+    "revision": "3c6bf774332c9a2f3fe0",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/5.3.6ae98aec.js"
   },
   {
     "revision": "f56be08bef9ccb7c5871",
@@ -332,24 +332,24 @@ self.__precacheManifest = [
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/9.2.2.592d51fc.js"
   },
   {
-    "revision": "0425210defa5f8b7bb5c",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/9.2.3.b62174fd.js"
+    "revision": "d779c05eae44f8a67c7a",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/9.2.3.82979d9e.js"
   },
   {
-    "revision": "6e489b9222a16511a90c",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/9.3.b7ba3019.js"
+    "revision": "814c996cd90ba11f71d1",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/9.3.7b46c2b2.js"
   },
   {
     "revision": "6489db0cced214a7ed2b",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/admin_panel.b4105c9f.js"
   },
   {
-    "revision": "19a69b557ecffd7ddaa9",
+    "revision": "9283da69ddcd64bf3933",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/css/app.b9a3bfa9.css"
   },
   {
-    "revision": "19a69b557ecffd7ddaa9",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/app.73455d7b.js"
+    "revision": "9283da69ddcd64bf3933",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/js/app.76cddc62.js"
   },
   {
     "revision": "25704dd8ec4f4ace0f55",
@@ -416,6 +416,10 @@ self.__precacheManifest = [
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/412-4.538988a5.png"
   },
   {
+    "revision": "a782baa8633b1359f9686ffad17e0d76",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/fonts/fontello.a782baa8.woff"
+  },
+  {
     "revision": "e73a0647198cfe970de0f003be95cc51",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/fonts/fontello.e73a0647.eot"
   },
@@ -426,10 +430,6 @@ self.__precacheManifest = [
   {
     "revision": "068ca2b316db98037bebdd1e4f1b9459",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/fonts/fontello.068ca2b3.ttf"
-  },
-  {
-    "revision": "a782baa8633b1359f9686ffad17e0d76",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/fonts/fontello.a782baa8.woff"
   },
   {
     "revision": "9354499c2824248511adf85fdf8e4c37",
@@ -464,16 +464,84 @@ self.__precacheManifest = [
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/412-2.1462778e.png"
   },
   {
-    "revision": "643b87b292dbb90e3b3379fcaf2f3e0e",
+    "revision": "bee3d9e9591739216d1e777be4345ee4",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/index.html"
+  },
+  {
+    "revision": "bdffadb1085cb0ae242907a12fd0c427",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/favicon.ico"
+  },
+  {
+    "revision": "475f3bdf8d1211c09e8b8f1d83539d27",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/extlib/jquery-3.4.0.min.js"
   },
   {
     "revision": "b8f54e81b49d882b00e0e4c58e8d6e69",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/extlib/jquery.ripples-min.js"
   },
   {
-    "revision": "475f3bdf8d1211c09e8b8f1d83539d27",
-    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/extlib/jquery-3.4.0.min.js"
+    "revision": "45c76b5d49b168761a2ef32c934595d1",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/android-chrome-192x192.png"
+  },
+  {
+    "revision": "45c76b5d49b168761a2ef32c934595d1",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/android-chrome-maskable-192x192.png"
+  },
+  {
+    "revision": "6a94cbccb3060fd38b3a59e494ca1cc5",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon-120x120.png"
+  },
+  {
+    "revision": "d945366a010351324afb7cbd71523e36",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/android-chrome-512x512.png"
+  },
+  {
+    "revision": "d945366a010351324afb7cbd71523e36",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/android-chrome-maskable-512x512.png"
+  },
+  {
+    "revision": "e9de59589838db2c52b8755f8f6c0d6a",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon-152x152.png"
+  },
+  {
+    "revision": "48e1f26bf9812d2fa41c8c718589ef5c",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon-180x180.png"
+  },
+  {
+    "revision": "b0434fcf05f8d6f29ca19bd76655e3e4",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon-60x60.png"
+  },
+  {
+    "revision": "7ff71f3adf7a164a0fbc086e603d82ef",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon-76x76.png"
+  },
+  {
+    "revision": "2cbcfeea3f54e104c51af55c4371cd60",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "48e1f26bf9812d2fa41c8c718589ef5c",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/apple-touch-icon.png"
+  },
+  {
+    "revision": "fb7d9f2cf2353aba04c011ad6c5ed46f",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/favicon-32x32.png"
+  },
+  {
+    "revision": "4ff42f453efe05d8355d006b87e37448",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/msapplication-icon-144x144.png"
+  },
+  {
+    "revision": "bdffadb1085cb0ae242907a12fd0c427",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/favicon.ico"
+  },
+  {
+    "revision": "1ed76990f73e98ce26d159889e8b0fb0",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/mstile-150x150.png"
+  },
+  {
+    "revision": "36b9776ab66ed739a5e9e354cb93d9fe",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/icons/safari-pinned-tab.svg"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
@@ -482,5 +550,12 @@ self.__precacheManifest = [
   {
     "revision": "27b1b04680cb8a02359c762bd75925f7",
     "url": "https://raymondmcguire.gitee.io/hycom/r3.0/img/logo.png"
+  },
+  {
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/precache-manifest.84eaa50f0bd75c8ef395626a51dc2f55.js"
+  },
+  {
+    "revision": "af413c9734ca98c7077221f402b20ca1",
+    "url": "https://raymondmcguire.gitee.io/hycom/r3.0/service-worker.js"
   }
 ];
